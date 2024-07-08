@@ -8,6 +8,12 @@ Linguagens de Programação👨‍💻:
 - 🟨JavaScript(+HTML+CSS)
 - 🐍Python
 
+<div>
+
+![Wellington-Amorim](https://github-readme-stats.vercel.app/api?username=Wellington-Amorim&show_icons=true&theme=tokyonight)
+
+</div>
+
    ##
 
 <div style="display: inline_block"><br>
