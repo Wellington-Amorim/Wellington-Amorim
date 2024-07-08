@@ -6,7 +6,7 @@ Estudando os Idiomas✍:
 
 Linguagens de Programação👨‍💻:
 - 🟨JavaScript(+HTML+CSS)
-- 🐍Phyton
+- 🐍Python
 
    ##
 
