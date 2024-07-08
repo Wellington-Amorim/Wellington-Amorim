@@ -1,4 +1,4 @@
-## Olá! 👋
+## Oii! 👋
 
 Estudando os Idiomas✍:
 - 🗽Inglês
