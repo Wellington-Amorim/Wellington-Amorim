@@ -4,12 +4,18 @@
   </a>
 </div>
 
-#
+   ##
 
 <p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
    ##
+
+<div style="display: flex; justify-content: space-between;">
+  <h2>Título à Esquerda</h2>
+  <h2>Título à Direita</h2>
+</div>
+
 
 <div>
 
@@ -19,7 +25,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
    ##
 
-<h3 align="left">Linguagens👨‍💻: </h3> <h3 align="right">Estudando os Idiomas✍: </h3>
+<h3 align="left">Linguagens👨‍💻: </h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Wellington-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
