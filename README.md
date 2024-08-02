@@ -11,9 +11,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<h3 align="left">Estudando os Idiomas✍:</h3>
-- 🗽Inglês
+<h3 align="left">Estudando os Idiomas✍:<br>
+- 🗽Inglês<br>
 - 🐲Mandarim
+</h3>
 
    ##
 
