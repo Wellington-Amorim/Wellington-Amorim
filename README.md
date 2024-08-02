@@ -15,6 +15,13 @@ Estudando os Idiomas✍:
 - 🗽Inglês
 - 🐲Mandarim
 
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:amorimwellington788@gmail.com)
+<a href="https://www.linkedin.com/in/wellington-amorim-8a223b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+   ##
+
 <div>
 
 ![Wellington-Amorim](https://github-readme-stats.vercel.app/api?username=Wellington-Amorim&show_icons=true&theme=tokyonight)
