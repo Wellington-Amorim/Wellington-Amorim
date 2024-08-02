@@ -9,15 +9,15 @@
 <p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake.svg">
-</picture>
-  
-
-
   ##
+
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellington-Amorim&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Amorim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
+
+ ##
 
 <h3 align="left">Ferramentas de Programação👨‍💻: </h3> 
 <div style="display: inline_block"><br>
@@ -28,6 +28,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Wellington-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+ ##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake.svg">
+</picture>
+  
   ##
 
 <h3 align="left">Estudando os Idiomas✍: </h3>
@@ -49,8 +57,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
  
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellington-Amorim&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Amorim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
