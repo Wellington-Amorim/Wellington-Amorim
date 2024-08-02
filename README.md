@@ -30,10 +30,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
   ##
 
- <h3 align="left">Estudando os Idiomas✍:<br>
- - 🗽Inglês<br>
- - 🐲Mandarim
- </h3>
+<h3 align="left">Estudando os Idiomas✍: </h3>
+<h4 align="left"> - 🗽Inglês<br>- 🐲Mandarim </h4>
   
   ##
  
