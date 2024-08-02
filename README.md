@@ -6,26 +6,16 @@
   </a>
 </div>
 
+<p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-
-<p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-
   
-  ##
 
-<div>
-
-![Wellington-Amorim](https://github-readme-stats.vercel.app/api?username=Wellington-Amorim&show_icons=true&theme=tokyonight)
-
-</div>
 
   ##
 
@@ -51,7 +41,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <a href="https://www.linkedin.com/in/wellington-amorim-8a223b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ##
+  
+<div>
 
+![Wellington-Amorim](https://github-readme-stats.vercel.app/api?username=Wellington-Amorim&show_icons=true&theme=tokyonight)
+
+</div>
  
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
