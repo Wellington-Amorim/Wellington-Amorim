@@ -4,7 +4,12 @@
   </a>
 </div>
 
-## Oii! 👋
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 Estudando os Idiomas✍:
 - 🗽Inglês
@@ -23,6 +28,7 @@ Linguagens de Programação👨‍💻:
 
    ##
 
+Linguagens👨‍💻:
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Wellington-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
