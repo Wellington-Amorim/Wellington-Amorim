@@ -50,7 +50,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake.svg">
 </picture>
 
- ##
+ 
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
 | :-: | :-: | :-: |
