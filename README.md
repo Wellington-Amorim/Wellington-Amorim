@@ -6,8 +6,8 @@ Estudando os Idiomas✍:
 
 Linguagens de Programação👨‍💻:
 - 🟦C
-- 🟨JavaScript(+HTML+CSS)
 - 🐍Python
+- 🟨JavaScript(+HTML+CSS)
 
 <div>
 
