@@ -5,6 +5,7 @@ Estudando os Idiomas✍:
 - 🐲Mandarim
 
 Linguagens de Programação👨‍💻:
+- 🟦C
 - 🟨JavaScript(+HTML+CSS)
 - 🐍Python
 
