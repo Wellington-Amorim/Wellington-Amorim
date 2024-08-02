@@ -9,13 +9,6 @@
 <p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
-#
-
-<h3 align="left">Estudando os Idiomas✍:<br>
-- 🗽Inglês<br>
-- 🐲Mandarim
-</h3>
-
    ##
 
 <div>
@@ -26,7 +19,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
    ##
 
-Linguagens👨‍💻:
+<h3 align="left">Linguagens👨‍💻: </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Wellington-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -34,6 +27,13 @@ Linguagens👨‍💻:
   <img align="center" alt="Wellington-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wellington-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+  ##
+
+ <h3 align="left">Estudando os Idiomas✍:<br>
+ - 🗽Inglês<br>
+ - 🐲Mandarim
+ </h3>
   
   ##
  
