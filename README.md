@@ -19,7 +19,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
    ##
 
-<h3 align="left">Linguagens👨‍💻: </h3>
+<h3 align="left">Linguagens👨‍💻: </h3> <h3 align="right">Estudando os Idiomas✍: </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Wellington-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
