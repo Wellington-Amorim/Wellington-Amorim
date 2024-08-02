@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Wellington-Amorim&color=00FF00"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=Wellington-Amorim&color=FFFFFF"><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
