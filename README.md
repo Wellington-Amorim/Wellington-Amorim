@@ -4,18 +4,12 @@
   </a>
 </div>
 
-   ##
+  ##
 
 <p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o segundo semestre e me autodesenvolvendo na programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
-   ##
-
-<div style="display: flex; justify-content: space-between;">
-  <h2>Título à Esquerda</h2>
-  <h2>Título à Direita</h2>
-</div>
-
+  ##
 
 <div>
 
@@ -23,7 +17,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 </div>
 
-   ##
+  ##
 
 <h3 align="left">Linguagens👨‍💻: </h3> 
 <div style="display: inline_block"><br>
