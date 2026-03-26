@@ -19,7 +19,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Wellington-Js" title="JavaScript" height="30" width="40" src="https://github.com/user-attachments/assets/f16934ac-2abf-409a-9c9e-4b6962a6e444">
   <img align="center" alt="Wellington-HTML" title="HTML" height="30" width="40" src="https://github.com/user-attachments/assets/d4de3ac6-5cd1-44be-af01-fed410039f19">
   <img align="center" alt="Wellington-CSS" title="CSS" height="30" width="40" src="https://github.com/user-attachments/assets/043c5a13-6c9a-470a-af1a-5e1079813017">
-  <img align="center" alt="Wellington-Java" title="Java" height="30" width="40" src="https://github.com/user-attachments/assets/83572a8c-bfcc-448a-b918-8b7744f5d421">
+  <img align="center" alt="Wellington-Java" title="Java" height="30" width="40" src="https://github.com/user-attachments/assets/b1095693-664a-4a29-9dd1-4841cf0718f0">
 </div>
   
 ##
