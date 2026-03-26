@@ -12,7 +12,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
  ##
 
-<h3 align="left">Ferramentas de Programação👨‍💻: </h3> 
+<h3 align="left">Minha Stack👨‍💻: </h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellington-C" title="C" height="30" width="40" src="https://github.com/user-attachments/assets/c3cf4758-1a3d-446f-95c5-56a358af8bc2">
   <img align="center" alt="Wellington-Progress-4GL" title="Progress-4GL" height="30" width="40" src="https://github.com/user-attachments/assets/44cb28b9-d757-4e7e-a250-be81fecb4e33">
