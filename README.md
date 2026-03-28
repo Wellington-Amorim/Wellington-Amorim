@@ -47,3 +47,5 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellington-Amorim&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Amorim&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=B22222&ring=B22222&fire=B22222&currStreakNum=B22222&sideNums=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=B22222) |
 | :-: | :-: |
+
+<img align="center" alt="Wellington-Rodape" title="Rodape" width="100%" src="https://github.com/user-attachments/assets/9d213284-ef6b-4985-9bb9-9a8d9feeb569">
