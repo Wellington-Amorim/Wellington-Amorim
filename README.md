@@ -1,4 +1,6 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Wellington-Amorim&color=7B68EE"><br>
+<img align="center" alt="Wellington-Java" title="Banner" width="100%" src="https://github.com/user-attachments/assets/4f2ccab7-1343-44d1-b30d-bb0c8d53f37a">
+
+<br><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -6,35 +8,41 @@
   </a>
 </div>
 
+<br>
+
 <p align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o quinto semestre e me autodesenvolvendo na programação.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+
+<br><br>
 
 
- ##
+<br>  
 
 <h3 align="left">Minha Stack👨‍💻: </h3> 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="Wellington-C" title="C" height="30" width="40" src="https://github.com/user-attachments/assets/c3cf4758-1a3d-446f-95c5-56a358af8bc2">
   <img align="center" alt="Wellington-Progress-4GL" title="Progress-4GL" height="30" width="40" src="https://github.com/user-attachments/assets/44cb28b9-d757-4e7e-a250-be81fecb4e33">
   <img align="center" alt="Wellington-Js" title="JavaScript" height="30" width="40" src="https://github.com/user-attachments/assets/f16934ac-2abf-409a-9c9e-4b6962a6e444">
   <img align="center" alt="Wellington-HTML" title="HTML" height="30" width="40" src="https://github.com/user-attachments/assets/d4de3ac6-5cd1-44be-af01-fed410039f19">
   <img align="center" alt="Wellington-CSS" title="CSS" height="30" width="40" src="https://github.com/user-attachments/assets/043c5a13-6c9a-470a-af1a-5e1079813017">
   <img align="center" alt="Wellington-Java" title="Java" height="30" width="40" src="https://github.com/user-attachments/assets/b1095693-664a-4a29-9dd1-4841cf0718f0">
+  <br>
 </div>
-  
-##
+
+<br><br>
 
 <h3 align="left">Passatempo✍: </h3>
-<h4 align="left"> 💻TI; 🗽Inglês; 🐲Mandarim; 📚Livros; 🎵Músicas; 🎬Filmes; etc. </h4>
+<h4 align="left"> 💻TI; 🗽Inglês; 🐲Mandarim; 📚Livros; 🎵Músicas; 🎬Filmes; etc. </h4><br>
   
-##
+<br>
  
 <h3 align="left">Entre em contato comigo!</h3>
 
 <a href = "mailto:amorimwellington788@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-amorim-8a223b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-##
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake-dark.svg">
@@ -42,7 +50,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wellington-Amorim/Wellington-Amorim/output/github-contribution-grid-snake.svg">
 </picture>
 
-##
+<br>
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
 | :-: | :-: | :-: |
