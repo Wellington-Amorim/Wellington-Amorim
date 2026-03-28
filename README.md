@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B22222&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" width="90%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=3000&color=B22222&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Wellington+Amorim+%E2%8A%B9+" alt="Typing SVG" width="90%">
   </a>
 </div>
 
@@ -44,8 +44,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <br>
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=tokyonight) |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=radical) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellington-Amorim&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Amorim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellington-Amorim&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Amorim&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=B22222&ring=B22222&fire=B22222&currStreakNum=B22222&sideNums=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=B22222) |
 | :-: | :-: |
