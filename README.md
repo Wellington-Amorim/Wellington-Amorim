@@ -1,4 +1,4 @@
-<img align="center" alt="Wellington-Banner" title="Banner-Luffy" width="100%" src="https://github.com/user-attachments/assets/4f2ccab7-1343-44d1-b30d-bb0c8d53f37a">
+<img align="center" alt="Wellington-Banner" title="Banner-One-Peace" width="100%" src="https://github.com/user-attachments/assets/5e1a726b-5030-4cff-9035-f14700ada985">
 
 <br><br>
 
