@@ -11,10 +11,9 @@
 <h3 align="center">Estudante de Engenharia de Software na Universidade Cesumar, Paraná. Atualmente cursando o quinto semestre e me autodesenvolvendo na programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h3>
 
-<br><br>
+<br><br><br>  
 
-
-<br>  
+***
 
 <h3 align="left">Minha Stack👨‍💻: </h3> 
 <div align="center" style="display: inline_block">
@@ -30,17 +29,21 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <br><br>
 
+***
+
 <h3 align="left">Passatempo✍: </h3>
 <h3 align="left"> 💻TI; 🗽Inglês; 🐲Mandarim; 📚Livros; 🎵Músicas; 🎬Filmes; etc. </h3><br>
-  
-<br>
+
+***
  
 <h3 align="left">Entre em contato comigo!</h3>
 
 <a href = "mailto:amorimwellington788@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-amorim-8a223b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<br>
+<br> 
+
+***
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wellington-Amorim&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wellington-Amorim&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wellington-Amorim&theme=radical) |
 | :-: | :-: | :-: |
