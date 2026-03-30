@@ -1,10 +1,10 @@
 <img align="center" alt="Wellington-Banner" title="Banner-One-Peace" width="100%" src="https://github.com/user-attachments/assets/5e1a726b-5030-4cff-9035-f14700ada985">
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=3000&color=B22222&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Wellington+Amorim+%E2%8A%B9+" alt="Typing SVG" width="90%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=3000&color=B22222&center=true&vCenter=true&random=false&width=524&lines=<+>+Wellington+Amorim+<+/+>+" alt="Typing SVG" width="90%">
   </a>
 </div>
 
