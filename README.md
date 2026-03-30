@@ -1,4 +1,4 @@
-<img align="center" alt="Wellington-Banner" title="Banner-One-Peace" width="100%" src="https://github.com/user-attachments/assets/5e1a726b-5030-4cff-9035-f14700ada985">
+<img align="center" alt="Wellington-Banner" title="Banner-One-Piace" width="100%" src="https://github.com/user-attachments/assets/5e1a726b-5030-4cff-9035-f14700ada985">
 
 <br><br>
 
