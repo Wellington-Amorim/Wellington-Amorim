@@ -19,12 +19,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Minha Stack👨‍💻: </h3> 
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" alt="Wellington-C" title="C" width="60" src="https://github.com/user-attachments/assets/c3cf4758-1a3d-446f-95c5-56a358af8bc2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Wellington-Progress-4GL" title="Progress-4GL" width="60" src="https://github.com/user-attachments/assets/44cb28b9-d757-4e7e-a250-be81fecb4e33">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Wellington-Js" title="JavaScript" width="60" src="https://github.com/user-attachments/assets/f16934ac-2abf-409a-9c9e-4b6962a6e444">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Wellington-HTML" title="HTML" width="60" src="https://github.com/user-attachments/assets/d4de3ac6-5cd1-44be-af01-fed410039f19">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Wellington-CSS" title="CSS" width="60" src="https://github.com/user-attachments/assets/043c5a13-6c9a-470a-af1a-5e1079813017">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Wellington-Java" title="Java" width="60" src="https://github.com/user-attachments/assets/b1095693-664a-4a29-9dd1-4841cf0718f0">
+  <img align="center" alt="Wellington-C" title="C" width="50" src="https://github.com/user-attachments/assets/c3cf4758-1a3d-446f-95c5-56a358af8bc2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Wellington-Progress-4GL" title="Progress-4GL" width="50" src="https://github.com/user-attachments/assets/44cb28b9-d757-4e7e-a250-be81fecb4e33">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Wellington-Js" title="JavaScript" width="50" src="https://github.com/user-attachments/assets/f16934ac-2abf-409a-9c9e-4b6962a6e444">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Wellington-HTML" title="HTML" width="50" src="https://github.com/user-attachments/assets/d4de3ac6-5cd1-44be-af01-fed410039f19">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Wellington-CSS" title="CSS" width="50" src="https://github.com/user-attachments/assets/043c5a13-6c9a-470a-af1a-5e1079813017">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Wellington-Java" title="Java" width="50" src="https://github.com/user-attachments/assets/b1095693-664a-4a29-9dd1-4841cf0718f0">
   <br>
 </div>
 
